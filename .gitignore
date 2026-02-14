@@ -1,0 +1,8 @@
+#Ignore all data files
+data/
+*.zip
+#environmental variables
+.env
+
+#bash scripts for the current session
+.script.sh
